@@ -1,0 +1,6 @@
+{
+  "name": "LifeQuest: The Weekend Challenge",
+  "description": "An interactive 2.5D financial literacy adventure game for grades 3-5 where kids budget $50 across a weekend of choices, surprises, and town exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
