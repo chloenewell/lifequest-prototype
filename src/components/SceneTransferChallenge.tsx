@@ -138,7 +138,7 @@ export function SceneTransferChallenge({
         <div className="lg:col-span-7 bg-white rounded-3xl border-2 border-slate-200 shadow-[0_6px_0_#CBD5E1] overflow-hidden flex flex-col justify-between">
           <div className="relative h-64 sm:h-72 bg-amber-50 overflow-hidden">
             <img
-              src="/assets/aistudio/image_e528c57a.png"
+              src={`${import.meta.env.BASE_URL}assets/aistudio/image_e528c57a.png`}
               alt="Community Celebration marketplace stall with Nova and supplies"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-center"
