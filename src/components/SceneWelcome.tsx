@@ -36,7 +36,7 @@ export function SceneWelcome({
         <div className="lg:col-span-7 flex flex-col justify-between bg-white rounded-3xl border-2 border-slate-200 shadow-[0_6px_0_#CBD5E1] overflow-hidden">
           <div className="relative h-64 sm:h-80 bg-sky-100 overflow-hidden">
             <img
-              src="/assets/aistudio/image_aa351931.png"
+              src={`${import.meta.env.BASE_URL}assets/aistudio/image_aa351931.png`}
               alt="Sunny LifeQuest town map with explorer and Nova"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-center"
